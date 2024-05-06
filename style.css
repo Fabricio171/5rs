@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 2%;
+}
+main {
+    background-image: url(img/fundido.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.centered-text{
+    background: rgb(202,255,90);
+    background: linear-gradient(360deg, rgba(202,255,90,1) 0%, rgba(95,120,42,1) 100%);
+    color: white;
+    text-align: center;
+    
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.bottom-text{
+    background: rgb(191,240,88);
+    background: linear-gradient(360deg, rgba(191,240,88,1) 0%, rgba(165,202,84,1) 100%);
+    color: black;
+
+}
